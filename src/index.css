@@ -1,0 +1,28 @@
+*{
+  margin:0px;
+  box-sizing: border-box;
+}
+.bg-color{
+  background-color:#2d2020;
+}
+.pr-100{
+  padding-right:100px;
+}
+.t-w{
+  color: #f0ede7;
+}
+.width-60{
+  width: 60%;
+}
+.mr-10{
+  margin-left:20px;
+  margin-right:20px;
+}
+.border-search{
+  border: 2px solid black;
+  border-radius:10px;
+}
+.d-btn{
+  background-color: #2d2020;
+  color:#f0ede7;
+}
